@@ -1,0 +1,15 @@
+[package]
+name = "concat-reader"
+version = "0.1.0"
+authors = ["Manfred Endres <manfred.endres@tslarusso.de>"]
+description = "Adapter for reading through multiple reader continuously"
+repository = "https://github.com/Larusso/concat-reader"
+edition = "2018"
+readme = "README.md"
+license = "Apache-2.0"
+keywords = ["reader","adapter","io"]
+categories = ["reader"]
+[badges]
+travis-ci = { repository = "Larusso/concat-reader", branch = "master" }
+maintenance = { status = "actively-developed" }
+[dependencies]
