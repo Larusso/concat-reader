@@ -8,7 +8,7 @@ edition = "2018"
 readme = "README.md"
 license = "Apache-2.0"
 keywords = ["reader","adapter","io"]
-categories = ["reader"]
+categories = ["data-structures"]
 [badges]
 travis-ci = { repository = "Larusso/concat-reader", branch = "master" }
 maintenance = { status = "actively-developed" }
